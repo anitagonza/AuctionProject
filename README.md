@@ -15,5 +15,5 @@ The Auction System is a Java application that simulates a simple bidding process
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/anitagonza/AuctionProject.git
+   https://github.com/anitagonza/AuctionSystem.git
    
