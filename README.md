@@ -1,4 +1,4 @@
-# AuctionProject
+# AuctionSystem
 Java Auction System Coursework
 # Auction System
 
